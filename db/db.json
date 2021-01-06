@@ -24,6 +24,11 @@
       "title": "Meeting with Toby",
       "text": "Ask him for chili recipe",
       "id": "4"
+    },
+    {
+      "title": "Party Planning Committee",
+      "text": "Christmas party",
+      "id": "5"
     }
   ]
 }
